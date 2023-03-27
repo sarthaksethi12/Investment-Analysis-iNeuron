@@ -25,9 +25,9 @@ Analyzing Foreign Direct Investment (FDI) in India to provide insights into its 
 
 #### Tableau Dashboard 1 - [Analyzing FDI In Various Sectors of India](https://public.tableau.com/app/profile/sarthak.sethi/viz/AnalyzingFDIInVariousSectorsofIndia_16788217914750/Dashboard1)
 
-<p  align="left"><a href="https://public.tableau.com/app/profile/sarthak.sethi/viz/AnalyzingFDIInVariousSectorsofIndia_16788217914750/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="70%" src="https://github.com/sarthaksethi12/Investment-Analysis-iNeuron/blob/main/Dashboard-1.jpg" /></a></p>
+<p  align="left"><a href="https://public.tableau.com/app/profile/sarthak.sethi/viz/AnalyzingFDIInVariousSectorsofIndia_16788217914750/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="75%" src="https://github.com/sarthaksethi12/Investment-Analysis-iNeuron/blob/main/Dashboard-1.jpg" /></a></p>
 
 #### Tableau Dashboard 2 - [Analyzing FDI In Various Sectors of India](https://public.tableau.com/app/profile/sarthak.sethi/viz/AnalyzingFDIInVariousSectorsofIndia_16788217914750/Dashboard2)
 
 
-<p  align="left"><a href="https://public.tableau.com/app/profile/sarthak.sethi/viz/AnalyzingFDIInVariousSectorsofIndia_16788217914750/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="70%" src="https://github.com/sarthaksethi12/Investment-Analysis-iNeuron/blob/main/Dashboard-2.jpg" /></a></p>
+<p  align="left"><a href="https://public.tableau.com/app/profile/sarthak.sethi/viz/AnalyzingFDIInVariousSectorsofIndia_16788217914750/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="75%" src="https://github.com/sarthaksethi12/Investment-Analysis-iNeuron/blob/main/Dashboard-2.jpg" /></a></p>
